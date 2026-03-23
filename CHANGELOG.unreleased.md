@@ -12,6 +12,7 @@
 > Users must be able to say: "Nice enhancement, I'm eager to test it"
 
 - [QA Test] Add end-to-end QA test suite `@xen-orchestra/qa-test` for VM, backup and export testing (PR [#9626](https://github.com/vatesfr/xen-orchestra/pull/9626))
+- [Pool] Add new Network creation forms (normal, Bonded and Internal) (PR [#9629](https://github.com/vatesfr/xen-orchestra/pull/9629))
 
 ### Bug fixes
 
@@ -35,6 +36,8 @@
 
 <!--packages-start-->
 
+- @xen-orchestra/web minor
+- @xen-orchestra/web-core minor
 - xo-server patch
 
 <!--packages-end-->
