@@ -29,7 +29,7 @@
 - [REST API] Expose `POST /rest/v0/pools/:id/actions/create_bonded_network` and `POST /rest/v0/pools/:id/actions/create_internal_network` (PR [#9611](https://github.com/vatesfr/xen-orchestra/pull/9611))
 - [REST API] Added `nbd` param in network creation endpoints (PR [#9611](https://github.com/vatesfr/xen-orchestra/pull/9611))
 - [Bugtools] Add button for download bugtools (PR [#9419](https://github.com/vatesfr/xen-orchestra/pull/9419))
-- [Treeview/Bugtools] Add button for download bugtools (PR [#9419](https://github.com/vatesfr/xen-orchestra/pull/9419))
+- [Treeview/Pool/Host] Add button to download bugtools (PR [#9419](https://github.com/vatesfr/xen-orchestra/pull/9419))
 
 ### Bug fixes
 
